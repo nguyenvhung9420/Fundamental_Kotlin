@@ -1,0 +1,241 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Volumes/Data/Repos/Fundamental_Kotlin/TheSecondOne/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Volumes/Data/Repos/Fundamental_Kotlin/TheSecondOne/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Volumes/Data/Repos/Fundamental_Kotlin/TheSecondOne/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Volumes/Data/Repos/Fundamental_Kotlin/TheSecondOne/app/src/main/AndroidManifest.xml:2:1-24:12
+MERGED from [androidx.databinding:viewbinding:4.2.2] /Users/hungnguy/.gradle/caches/transforms-2/files-2.1/a86ea156f1c6c70da169573cb5f0d3f3/viewbinding-4.2.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.3.0] /Users/hungnguy/.gradle/caches/transforms-2/files-2.1/14b6f8f3afb144578e00f44e13477c05/navigation-fragment-ktx-2.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment-ktx:1.2.4] /Users/hungnguy/.gradle/caches/transforms-2/files-2.1/5a8a8ec91214e7603fcdfb6095a6dcee/fragment-ktx-1.2.4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-ui-ktx:2.3.0] /Users/hungnguy/.gradle/caches/transforms-2/files-2.1/1e07c4184cfa5818ff74364bf0aa9897/navigation-ui-ktx-2.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.3.0] /Users/hungnguy/.gradle/caches/transforms-2/files-2.1/9f8dd54e2213c6cf3e75f9c9d0c2d633/navigation-runtime-ktx-2.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-common-ktx:2.3.0] /Users/hungnguy/.gradle/caches/transforms-2/files-2.1/0b5fa1834e9517396ba5f082bcf962ba/navigation-common-ktx-2.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity-ktx:1.1.0] /Users/hungnguy/.gradle/caches/transforms-2/files-2.1/8aeec1a42fdd76f7c2377c68f6f2d7bb/activity-ktx-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.3.1] /Users/hungnguy/.gradle/caches/transforms-2/files-2.1/8653d3df5091c97bc87529eb9d0ea8f7/core-ktx-1.3.1/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.2.0] /Users/hungnguy/.gradle/caches/transforms-2/files-2.1/2b0e04b63d07c6ae6e483dae32101c3e/lifecycle-viewmodel-ktx-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.2.0] /Users/hungnguy/.gradle/caches/transforms-2/files-2.1/5e683bd2b36addfee8372eca8c2a08eb/lifecycle-livedata-core-ktx-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.2.0] /Users/hungnguy/.gradle/caches/transforms-2/files-2.1/21bab031b7c826ab1df86417002012f4/lifecycle-runtime-ktx-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-ui:2.3.0] /Users/hungnguy/.gradle/caches/transforms-2/files-2.1/362e8d6a722fe9fd3185fa83010f2f14/navigation-ui-2.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.material:material:1.2.1] /Users/hungnguy/.gradle/caches/transforms-2/files-2.1/79e9e18bf951ab23325d89b95e5bd008/material-1.2.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /Users/hungnguy/.gradle/caches/transforms-2/files-2.1/a9311d74d80edcfc384ea90c9cbb4fb3/constraintlayout-2.0.1/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/hungnguy/.gradle/caches/transforms-2/files-2.1/9406b2b1267297fc017e7027d8bc30bc/appcompat-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/hungnguy/.gradle/caches/transforms-2/files-2.1/406350611cb4f661b647034e5abb9edb/legacy-support-v4-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/hungnguy/.gradle/caches/transforms-2/files-2.1/3a82be62ce1ccb11a27f6ec84dd58a17/appcompat-resources-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/hungnguy/.gradle/caches/transforms-2/files-2.1/16022fda65e52f1a153b1a97817890a4/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/hungnguy/.gradle/caches/transforms-2/files-2.1/8e6a20d7fc9c099ccd7eba17798bb58f/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/hungnguy/.gradle/caches/transforms-2/files-2.1/31a64ca6ed8676f803ec755f43a77806/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/hungnguy/.gradle/caches/transforms-2/files-2.1/f04385de59c26420d58d147a9a74fe51/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/hungnguy/.gradle/caches/transforms-2/files-2.1/dafeb60989f149d261f75912da5819c3/viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.media:media:1.0.0] /Users/hungnguy/.gradle/caches/transforms-2/files-2.1/1be280a1f8635b6197a47fa4e5328d6c/media-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/hungnguy/.gradle/caches/transforms-2/files-2.1/f2e5b1206570a82806e1a197ad24a53b/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-fragment:2.3.0] /Users/hungnguy/.gradle/caches/transforms-2/files-2.1/42dfcd5411aa93f740bae0c7a7b62e6a/navigation-fragment-2.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.2.4] /Users/hungnguy/.gradle/caches/transforms-2/files-2.1/a73116e2928362c52a6e267920b0f577/fragment-1.2.4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/hungnguy/.gradle/caches/transforms-2/files-2.1/35b89a7df077b7fd54f833295eaf549b/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/hungnguy/.gradle/caches/transforms-2/files-2.1/bcf16181c4de1d212fa3db965560e89d/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/hungnguy/.gradle/caches/transforms-2/files-2.1/f953ab4f37885764354d84ddfde52cef/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.0] /Users/hungnguy/.gradle/caches/transforms-2/files-2.1/fba63fead627a989da3e31b34aa1effc/drawerlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/hungnguy/.gradle/caches/transforms-2/files-2.1/9ae9140bc2935bc05d63358f03a829d5/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.1.0] /Users/hungnguy/.gradle/caches/transforms-2/files-2.1/b0c4d7ac618575ebe5c725cf0347255d/customview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.3.0] /Users/hungnguy/.gradle/caches/transforms-2/files-2.1/0057fa46b90e52d805e47ca344b36806/transition-1.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/hungnguy/.gradle/caches/transforms-2/files-2.1/4c402b822b8b50ac41d543b09ce5b564/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/hungnguy/.gradle/caches/transforms-2/files-2.1/2325b2b7b8d08d58e3a5dc9cfd07c7e8/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-runtime:2.3.0] /Users/hungnguy/.gradle/caches/transforms-2/files-2.1/464533ceff8e68d51fe98dde3c7c175b/navigation-runtime-2.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.1.0] /Users/hungnguy/.gradle/caches/transforms-2/files-2.1/24fba449364f94ad2253271a5dab7b7d/activity-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-common:2.3.0] /Users/hungnguy/.gradle/caches/transforms-2/files-2.1/c91e7751dfa8b369fcad62e88895f0d6/navigation-common-2.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.3.1] /Users/hungnguy/.gradle/caches/transforms-2/files-2.1/47da25a8071eb2561694b00579e1fc79/core-1.3.1/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/hungnguy/.gradle/caches/transforms-2/files-2.1/6beb34cd66cfb7058da4244864872e09/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/hungnguy/.gradle/caches/transforms-2/files-2.1/b46b3f9f320747dbae98e35027f70956/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/hungnguy/.gradle/caches/transforms-2/files-2.1/ae71b49633f9b372d469408f62de480f/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /Users/hungnguy/.gradle/caches/transforms-2/files-2.1/0c8a3c26715cec24790921fccae595a2/lifecycle-viewmodel-savedstate-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /Users/hungnguy/.gradle/caches/transforms-2/files-2.1/c90334a696ff11caa6686d514dc2bb1e/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/hungnguy/.gradle/caches/transforms-2/files-2.1/43a76a240df6409a668896b320cdb11f/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/hungnguy/.gradle/caches/transforms-2/files-2.1/006f75501ee49bd5eb21e79e4363589a/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/hungnguy/.gradle/caches/transforms-2/files-2.1/76cf6e48a6f215ca02fb8be5d7ec1d75/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/hungnguy/.gradle/caches/transforms-2/files-2.1/467156583574eb755c4e2afa393e7e04/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/hungnguy/.gradle/caches/transforms-2/files-2.1/9c9ceaa32745ca9137c1deb8f41d677e/savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/hungnguy/.gradle/caches/transforms-2/files-2.1/99e89960184c0d2d7381d69ed6b5b8cc/lifecycle-runtime-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/hungnguy/.gradle/caches/transforms-2/files-2.1/7565da836257268c70c5556d1df8a86b/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /Users/hungnguy/.gradle/caches/transforms-2/files-2.1/a4056a31eccfb7a8b7358f9342345116/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/hungnguy/.gradle/caches/transforms-2/files-2.1/c05c2560aa638e51e1584e20fc898d4a/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/hungnguy/.gradle/caches/transforms-2/files-2.1/7a55bdc87a9059b51623c3e7b0ef17ea/annotation-experimental-1.0.0/AndroidManifest.xml:17:1-24:12
+INJECTED from /Volumes/Data/Repos/Fundamental_Kotlin/TheSecondOne/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Volumes/Data/Repos/Fundamental_Kotlin/TheSecondOne/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Volumes/Data/Repos/Fundamental_Kotlin/TheSecondOne/app/src/main/AndroidManifest.xml:2:1-24:12
+	package
+		ADDED from /Volumes/Data/Repos/Fundamental_Kotlin/TheSecondOne/app/src/main/AndroidManifest.xml:3:5-45
+		INJECTED from /Volumes/Data/Repos/Fundamental_Kotlin/TheSecondOne/app/src/main/AndroidManifest.xml
+		INJECTED from /Volumes/Data/Repos/Fundamental_Kotlin/TheSecondOne/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Volumes/Data/Repos/Fundamental_Kotlin/TheSecondOne/app/src/main/AndroidManifest.xml
+		ADDED from /Volumes/Data/Repos/Fundamental_Kotlin/TheSecondOne/app/src/main/AndroidManifest.xml:2:1-24:12
+		INJECTED from /Volumes/Data/Repos/Fundamental_Kotlin/TheSecondOne/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Volumes/Data/Repos/Fundamental_Kotlin/TheSecondOne/app/src/main/AndroidManifest.xml
+		ADDED from /Volumes/Data/Repos/Fundamental_Kotlin/TheSecondOne/app/src/main/AndroidManifest.xml:2:1-24:12
+		INJECTED from /Volumes/Data/Repos/Fundamental_Kotlin/TheSecondOne/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Volumes/Data/Repos/Fundamental_Kotlin/TheSecondOne/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Volumes/Data/Repos/Fundamental_Kotlin/TheSecondOne/app/src/main/AndroidManifest.xml:5:5-22:19
+MERGED from [com.google.android.material:material:1.2.1] /Users/hungnguy/.gradle/caches/transforms-2/files-2.1/79e9e18bf951ab23325d89b95e5bd008/material-1.2.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.2.1] /Users/hungnguy/.gradle/caches/transforms-2/files-2.1/79e9e18bf951ab23325d89b95e5bd008/material-1.2.1/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /Users/hungnguy/.gradle/caches/transforms-2/files-2.1/a9311d74d80edcfc384ea90c9cbb4fb3/constraintlayout-2.0.1/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /Users/hungnguy/.gradle/caches/transforms-2/files-2.1/a9311d74d80edcfc384ea90c9cbb4fb3/constraintlayout-2.0.1/AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.3.1] /Users/hungnguy/.gradle/caches/transforms-2/files-2.1/47da25a8071eb2561694b00579e1fc79/core-1.3.1/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.1] /Users/hungnguy/.gradle/caches/transforms-2/files-2.1/47da25a8071eb2561694b00579e1fc79/core-1.3.1/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/hungnguy/.gradle/caches/transforms-2/files-2.1/ae71b49633f9b372d469408f62de480f/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/hungnguy/.gradle/caches/transforms-2/files-2.1/ae71b49633f9b372d469408f62de480f/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.3.1] /Users/hungnguy/.gradle/caches/transforms-2/files-2.1/47da25a8071eb2561694b00579e1fc79/core-1.3.1/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /Volumes/Data/Repos/Fundamental_Kotlin/TheSecondOne/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /Volumes/Data/Repos/Fundamental_Kotlin/TheSecondOne/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /Volumes/Data/Repos/Fundamental_Kotlin/TheSecondOne/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /Volumes/Data/Repos/Fundamental_Kotlin/TheSecondOne/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /Volumes/Data/Repos/Fundamental_Kotlin/TheSecondOne/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /Volumes/Data/Repos/Fundamental_Kotlin/TheSecondOne/app/src/main/AndroidManifest.xml:11:9-56
+activity#com.example.myfirstapplication.MainActivity
+ADDED from /Volumes/Data/Repos/Fundamental_Kotlin/TheSecondOne/app/src/main/AndroidManifest.xml:12:9-21:20
+	android:label
+		ADDED from /Volumes/Data/Repos/Fundamental_Kotlin/TheSecondOne/app/src/main/AndroidManifest.xml:14:13-45
+	android:theme
+		ADDED from /Volumes/Data/Repos/Fundamental_Kotlin/TheSecondOne/app/src/main/AndroidManifest.xml:15:13-72
+	android:name
+		ADDED from /Volumes/Data/Repos/Fundamental_Kotlin/TheSecondOne/app/src/main/AndroidManifest.xml:13:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Volumes/Data/Repos/Fundamental_Kotlin/TheSecondOne/app/src/main/AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from /Volumes/Data/Repos/Fundamental_Kotlin/TheSecondOne/app/src/main/AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from /Volumes/Data/Repos/Fundamental_Kotlin/TheSecondOne/app/src/main/AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Volumes/Data/Repos/Fundamental_Kotlin/TheSecondOne/app/src/main/AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from /Volumes/Data/Repos/Fundamental_Kotlin/TheSecondOne/app/src/main/AndroidManifest.xml:19:27-74
+uses-sdk
+INJECTED from /Volumes/Data/Repos/Fundamental_Kotlin/TheSecondOne/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Volumes/Data/Repos/Fundamental_Kotlin/TheSecondOne/app/src/main/AndroidManifest.xml
+INJECTED from /Volumes/Data/Repos/Fundamental_Kotlin/TheSecondOne/app/src/main/AndroidManifest.xml
+MERGED from [androidx.databinding:viewbinding:4.2.2] /Users/hungnguy/.gradle/caches/transforms-2/files-2.1/a86ea156f1c6c70da169573cb5f0d3f3/viewbinding-4.2.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.databinding:viewbinding:4.2.2] /Users/hungnguy/.gradle/caches/transforms-2/files-2.1/a86ea156f1c6c70da169573cb5f0d3f3/viewbinding-4.2.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.3.0] /Users/hungnguy/.gradle/caches/transforms-2/files-2.1/14b6f8f3afb144578e00f44e13477c05/navigation-fragment-ktx-2.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.3.0] /Users/hungnguy/.gradle/caches/transforms-2/files-2.1/14b6f8f3afb144578e00f44e13477c05/navigation-fragment-ktx-2.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.2.4] /Users/hungnguy/.gradle/caches/transforms-2/files-2.1/5a8a8ec91214e7603fcdfb6095a6dcee/fragment-ktx-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.2.4] /Users/hungnguy/.gradle/caches/transforms-2/files-2.1/5a8a8ec91214e7603fcdfb6095a6dcee/fragment-ktx-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui-ktx:2.3.0] /Users/hungnguy/.gradle/caches/transforms-2/files-2.1/1e07c4184cfa5818ff74364bf0aa9897/navigation-ui-ktx-2.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui-ktx:2.3.0] /Users/hungnguy/.gradle/caches/transforms-2/files-2.1/1e07c4184cfa5818ff74364bf0aa9897/navigation-ui-ktx-2.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.3.0] /Users/hungnguy/.gradle/caches/transforms-2/files-2.1/9f8dd54e2213c6cf3e75f9c9d0c2d633/navigation-runtime-ktx-2.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.3.0] /Users/hungnguy/.gradle/caches/transforms-2/files-2.1/9f8dd54e2213c6cf3e75f9c9d0c2d633/navigation-runtime-ktx-2.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common-ktx:2.3.0] /Users/hungnguy/.gradle/caches/transforms-2/files-2.1/0b5fa1834e9517396ba5f082bcf962ba/navigation-common-ktx-2.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common-ktx:2.3.0] /Users/hungnguy/.gradle/caches/transforms-2/files-2.1/0b5fa1834e9517396ba5f082bcf962ba/navigation-common-ktx-2.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.1.0] /Users/hungnguy/.gradle/caches/transforms-2/files-2.1/8aeec1a42fdd76f7c2377c68f6f2d7bb/activity-ktx-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.1.0] /Users/hungnguy/.gradle/caches/transforms-2/files-2.1/8aeec1a42fdd76f7c2377c68f6f2d7bb/activity-ktx-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.3.1] /Users/hungnguy/.gradle/caches/transforms-2/files-2.1/8653d3df5091c97bc87529eb9d0ea8f7/core-ktx-1.3.1/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.3.1] /Users/hungnguy/.gradle/caches/transforms-2/files-2.1/8653d3df5091c97bc87529eb9d0ea8f7/core-ktx-1.3.1/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.2.0] /Users/hungnguy/.gradle/caches/transforms-2/files-2.1/2b0e04b63d07c6ae6e483dae32101c3e/lifecycle-viewmodel-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.2.0] /Users/hungnguy/.gradle/caches/transforms-2/files-2.1/2b0e04b63d07c6ae6e483dae32101c3e/lifecycle-viewmodel-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.2.0] /Users/hungnguy/.gradle/caches/transforms-2/files-2.1/5e683bd2b36addfee8372eca8c2a08eb/lifecycle-livedata-core-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.2.0] /Users/hungnguy/.gradle/caches/transforms-2/files-2.1/5e683bd2b36addfee8372eca8c2a08eb/lifecycle-livedata-core-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.2.0] /Users/hungnguy/.gradle/caches/transforms-2/files-2.1/21bab031b7c826ab1df86417002012f4/lifecycle-runtime-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.2.0] /Users/hungnguy/.gradle/caches/transforms-2/files-2.1/21bab031b7c826ab1df86417002012f4/lifecycle-runtime-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui:2.3.0] /Users/hungnguy/.gradle/caches/transforms-2/files-2.1/362e8d6a722fe9fd3185fa83010f2f14/navigation-ui-2.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui:2.3.0] /Users/hungnguy/.gradle/caches/transforms-2/files-2.1/362e8d6a722fe9fd3185fa83010f2f14/navigation-ui-2.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.2.1] /Users/hungnguy/.gradle/caches/transforms-2/files-2.1/79e9e18bf951ab23325d89b95e5bd008/material-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.2.1] /Users/hungnguy/.gradle/caches/transforms-2/files-2.1/79e9e18bf951ab23325d89b95e5bd008/material-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /Users/hungnguy/.gradle/caches/transforms-2/files-2.1/a9311d74d80edcfc384ea90c9cbb4fb3/constraintlayout-2.0.1/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /Users/hungnguy/.gradle/caches/transforms-2/files-2.1/a9311d74d80edcfc384ea90c9cbb4fb3/constraintlayout-2.0.1/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/hungnguy/.gradle/caches/transforms-2/files-2.1/9406b2b1267297fc017e7027d8bc30bc/appcompat-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/hungnguy/.gradle/caches/transforms-2/files-2.1/9406b2b1267297fc017e7027d8bc30bc/appcompat-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/hungnguy/.gradle/caches/transforms-2/files-2.1/406350611cb4f661b647034e5abb9edb/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/hungnguy/.gradle/caches/transforms-2/files-2.1/406350611cb4f661b647034e5abb9edb/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/hungnguy/.gradle/caches/transforms-2/files-2.1/3a82be62ce1ccb11a27f6ec84dd58a17/appcompat-resources-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/hungnguy/.gradle/caches/transforms-2/files-2.1/3a82be62ce1ccb11a27f6ec84dd58a17/appcompat-resources-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/hungnguy/.gradle/caches/transforms-2/files-2.1/16022fda65e52f1a153b1a97817890a4/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/hungnguy/.gradle/caches/transforms-2/files-2.1/16022fda65e52f1a153b1a97817890a4/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/hungnguy/.gradle/caches/transforms-2/files-2.1/8e6a20d7fc9c099ccd7eba17798bb58f/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/hungnguy/.gradle/caches/transforms-2/files-2.1/8e6a20d7fc9c099ccd7eba17798bb58f/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/hungnguy/.gradle/caches/transforms-2/files-2.1/31a64ca6ed8676f803ec755f43a77806/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/hungnguy/.gradle/caches/transforms-2/files-2.1/31a64ca6ed8676f803ec755f43a77806/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/hungnguy/.gradle/caches/transforms-2/files-2.1/f04385de59c26420d58d147a9a74fe51/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/hungnguy/.gradle/caches/transforms-2/files-2.1/f04385de59c26420d58d147a9a74fe51/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/hungnguy/.gradle/caches/transforms-2/files-2.1/dafeb60989f149d261f75912da5819c3/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/hungnguy/.gradle/caches/transforms-2/files-2.1/dafeb60989f149d261f75912da5819c3/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.0.0] /Users/hungnguy/.gradle/caches/transforms-2/files-2.1/1be280a1f8635b6197a47fa4e5328d6c/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/hungnguy/.gradle/caches/transforms-2/files-2.1/1be280a1f8635b6197a47fa4e5328d6c/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/hungnguy/.gradle/caches/transforms-2/files-2.1/f2e5b1206570a82806e1a197ad24a53b/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/hungnguy/.gradle/caches/transforms-2/files-2.1/f2e5b1206570a82806e1a197ad24a53b/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-fragment:2.3.0] /Users/hungnguy/.gradle/caches/transforms-2/files-2.1/42dfcd5411aa93f740bae0c7a7b62e6a/navigation-fragment-2.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.3.0] /Users/hungnguy/.gradle/caches/transforms-2/files-2.1/42dfcd5411aa93f740bae0c7a7b62e6a/navigation-fragment-2.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.4] /Users/hungnguy/.gradle/caches/transforms-2/files-2.1/a73116e2928362c52a6e267920b0f577/fragment-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.4] /Users/hungnguy/.gradle/caches/transforms-2/files-2.1/a73116e2928362c52a6e267920b0f577/fragment-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/hungnguy/.gradle/caches/transforms-2/files-2.1/35b89a7df077b7fd54f833295eaf549b/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/hungnguy/.gradle/caches/transforms-2/files-2.1/35b89a7df077b7fd54f833295eaf549b/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/hungnguy/.gradle/caches/transforms-2/files-2.1/bcf16181c4de1d212fa3db965560e89d/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/hungnguy/.gradle/caches/transforms-2/files-2.1/bcf16181c4de1d212fa3db965560e89d/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/hungnguy/.gradle/caches/transforms-2/files-2.1/f953ab4f37885764354d84ddfde52cef/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/hungnguy/.gradle/caches/transforms-2/files-2.1/f953ab4f37885764354d84ddfde52cef/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.0] /Users/hungnguy/.gradle/caches/transforms-2/files-2.1/fba63fead627a989da3e31b34aa1effc/drawerlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.0] /Users/hungnguy/.gradle/caches/transforms-2/files-2.1/fba63fead627a989da3e31b34aa1effc/drawerlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/hungnguy/.gradle/caches/transforms-2/files-2.1/9ae9140bc2935bc05d63358f03a829d5/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/hungnguy/.gradle/caches/transforms-2/files-2.1/9ae9140bc2935bc05d63358f03a829d5/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.1.0] /Users/hungnguy/.gradle/caches/transforms-2/files-2.1/b0c4d7ac618575ebe5c725cf0347255d/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /Users/hungnguy/.gradle/caches/transforms-2/files-2.1/b0c4d7ac618575ebe5c725cf0347255d/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.3.0] /Users/hungnguy/.gradle/caches/transforms-2/files-2.1/0057fa46b90e52d805e47ca344b36806/transition-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.3.0] /Users/hungnguy/.gradle/caches/transforms-2/files-2.1/0057fa46b90e52d805e47ca344b36806/transition-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/hungnguy/.gradle/caches/transforms-2/files-2.1/4c402b822b8b50ac41d543b09ce5b564/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/hungnguy/.gradle/caches/transforms-2/files-2.1/4c402b822b8b50ac41d543b09ce5b564/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/hungnguy/.gradle/caches/transforms-2/files-2.1/2325b2b7b8d08d58e3a5dc9cfd07c7e8/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/hungnguy/.gradle/caches/transforms-2/files-2.1/2325b2b7b8d08d58e3a5dc9cfd07c7e8/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime:2.3.0] /Users/hungnguy/.gradle/caches/transforms-2/files-2.1/464533ceff8e68d51fe98dde3c7c175b/navigation-runtime-2.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.3.0] /Users/hungnguy/.gradle/caches/transforms-2/files-2.1/464533ceff8e68d51fe98dde3c7c175b/navigation-runtime-2.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.1.0] /Users/hungnguy/.gradle/caches/transforms-2/files-2.1/24fba449364f94ad2253271a5dab7b7d/activity-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.1.0] /Users/hungnguy/.gradle/caches/transforms-2/files-2.1/24fba449364f94ad2253271a5dab7b7d/activity-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.3.0] /Users/hungnguy/.gradle/caches/transforms-2/files-2.1/c91e7751dfa8b369fcad62e88895f0d6/navigation-common-2.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.3.0] /Users/hungnguy/.gradle/caches/transforms-2/files-2.1/c91e7751dfa8b369fcad62e88895f0d6/navigation-common-2.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.1] /Users/hungnguy/.gradle/caches/transforms-2/files-2.1/47da25a8071eb2561694b00579e1fc79/core-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.1] /Users/hungnguy/.gradle/caches/transforms-2/files-2.1/47da25a8071eb2561694b00579e1fc79/core-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/hungnguy/.gradle/caches/transforms-2/files-2.1/6beb34cd66cfb7058da4244864872e09/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/hungnguy/.gradle/caches/transforms-2/files-2.1/6beb34cd66cfb7058da4244864872e09/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/hungnguy/.gradle/caches/transforms-2/files-2.1/b46b3f9f320747dbae98e35027f70956/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/hungnguy/.gradle/caches/transforms-2/files-2.1/b46b3f9f320747dbae98e35027f70956/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/hungnguy/.gradle/caches/transforms-2/files-2.1/ae71b49633f9b372d469408f62de480f/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/hungnguy/.gradle/caches/transforms-2/files-2.1/ae71b49633f9b372d469408f62de480f/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /Users/hungnguy/.gradle/caches/transforms-2/files-2.1/0c8a3c26715cec24790921fccae595a2/lifecycle-viewmodel-savedstate-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /Users/hungnguy/.gradle/caches/transforms-2/files-2.1/0c8a3c26715cec24790921fccae595a2/lifecycle-viewmodel-savedstate-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /Users/hungnguy/.gradle/caches/transforms-2/files-2.1/c90334a696ff11caa6686d514dc2bb1e/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /Users/hungnguy/.gradle/caches/transforms-2/files-2.1/c90334a696ff11caa6686d514dc2bb1e/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/hungnguy/.gradle/caches/transforms-2/files-2.1/43a76a240df6409a668896b320cdb11f/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/hungnguy/.gradle/caches/transforms-2/files-2.1/43a76a240df6409a668896b320cdb11f/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/hungnguy/.gradle/caches/transforms-2/files-2.1/006f75501ee49bd5eb21e79e4363589a/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/hungnguy/.gradle/caches/transforms-2/files-2.1/006f75501ee49bd5eb21e79e4363589a/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/hungnguy/.gradle/caches/transforms-2/files-2.1/76cf6e48a6f215ca02fb8be5d7ec1d75/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/hungnguy/.gradle/caches/transforms-2/files-2.1/76cf6e48a6f215ca02fb8be5d7ec1d75/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/hungnguy/.gradle/caches/transforms-2/files-2.1/467156583574eb755c4e2afa393e7e04/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/hungnguy/.gradle/caches/transforms-2/files-2.1/467156583574eb755c4e2afa393e7e04/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/hungnguy/.gradle/caches/transforms-2/files-2.1/9c9ceaa32745ca9137c1deb8f41d677e/savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/hungnguy/.gradle/caches/transforms-2/files-2.1/9c9ceaa32745ca9137c1deb8f41d677e/savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/hungnguy/.gradle/caches/transforms-2/files-2.1/99e89960184c0d2d7381d69ed6b5b8cc/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/hungnguy/.gradle/caches/transforms-2/files-2.1/99e89960184c0d2d7381d69ed6b5b8cc/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/hungnguy/.gradle/caches/transforms-2/files-2.1/7565da836257268c70c5556d1df8a86b/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/hungnguy/.gradle/caches/transforms-2/files-2.1/7565da836257268c70c5556d1df8a86b/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /Users/hungnguy/.gradle/caches/transforms-2/files-2.1/a4056a31eccfb7a8b7358f9342345116/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /Users/hungnguy/.gradle/caches/transforms-2/files-2.1/a4056a31eccfb7a8b7358f9342345116/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/hungnguy/.gradle/caches/transforms-2/files-2.1/c05c2560aa638e51e1584e20fc898d4a/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/hungnguy/.gradle/caches/transforms-2/files-2.1/c05c2560aa638e51e1584e20fc898d4a/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/hungnguy/.gradle/caches/transforms-2/files-2.1/7a55bdc87a9059b51623c3e7b0ef17ea/annotation-experimental-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/hungnguy/.gradle/caches/transforms-2/files-2.1/7a55bdc87a9059b51623c3e7b0ef17ea/annotation-experimental-1.0.0/AndroidManifest.xml:20:5-22:41
+INJECTED from /Volumes/Data/Repos/Fundamental_Kotlin/TheSecondOne/app/src/main/AndroidManifest.xml
+INJECTED from /Volumes/Data/Repos/Fundamental_Kotlin/TheSecondOne/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Volumes/Data/Repos/Fundamental_Kotlin/TheSecondOne/app/src/main/AndroidManifest.xml
+		ADDED from /Volumes/Data/Repos/Fundamental_Kotlin/TheSecondOne/app/src/main/AndroidManifest.xml
+		INJECTED from /Volumes/Data/Repos/Fundamental_Kotlin/TheSecondOne/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Volumes/Data/Repos/Fundamental_Kotlin/TheSecondOne/app/src/main/AndroidManifest.xml
+		ADDED from /Volumes/Data/Repos/Fundamental_Kotlin/TheSecondOne/app/src/main/AndroidManifest.xml
+		INJECTED from /Volumes/Data/Repos/Fundamental_Kotlin/TheSecondOne/app/src/main/AndroidManifest.xml

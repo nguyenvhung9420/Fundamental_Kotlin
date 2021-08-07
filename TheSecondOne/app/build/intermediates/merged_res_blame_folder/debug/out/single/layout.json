@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Volumes/Data/Repos/Fundamental_Kotlin/TheSecondOne/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_first.xml",
+        "source": "/Volumes/Data/Repos/Fundamental_Kotlin/TheSecondOne/app/src/main/res/layout/fragment_first.xml"
+    },
+    {
+        "merged": "/Volumes/Data/Repos/Fundamental_Kotlin/TheSecondOne/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_main.xml",
+        "source": "/Volumes/Data/Repos/Fundamental_Kotlin/TheSecondOne/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Volumes/Data/Repos/Fundamental_Kotlin/TheSecondOne/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_second.xml",
+        "source": "/Volumes/Data/Repos/Fundamental_Kotlin/TheSecondOne/app/src/main/res/layout/fragment_second.xml"
+    },
+    {
+        "merged": "/Volumes/Data/Repos/Fundamental_Kotlin/TheSecondOne/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/content_main.xml",
+        "source": "/Volumes/Data/Repos/Fundamental_Kotlin/TheSecondOne/app/src/main/res/layout/content_main.xml"
+    },
+    {
+        "merged": "/Volumes/Data/Repos/Fundamental_Kotlin/TheSecondOne/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_third.xml",
+        "source": "/Volumes/Data/Repos/Fundamental_Kotlin/TheSecondOne/app/src/main/res/layout/fragment_third.xml"
+    }
+]

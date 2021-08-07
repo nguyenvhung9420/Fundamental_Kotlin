@@ -1,0 +1,12 @@
+com/example/myfirstapplication/databinding/FragmentSecondBinding.java
+ com.example.myfirstapplication.databinding.FragmentSecondBinding
+com/example/myfirstapplication/BuildConfig.java
+ com.example.myfirstapplication.BuildConfig
+com/example/myfirstapplication/databinding/ContentMainBinding.java
+ com.example.myfirstapplication.databinding.ContentMainBinding
+com/example/myfirstapplication/databinding/ActivityMainBinding.java
+ com.example.myfirstapplication.databinding.ActivityMainBinding
+com/example/myfirstapplication/databinding/FragmentFirstBinding.java
+ com.example.myfirstapplication.databinding.FragmentFirstBinding
+com/example/myfirstapplication/databinding/FragmentThirdBinding.java
+ com.example.myfirstapplication.databinding.FragmentThirdBinding
